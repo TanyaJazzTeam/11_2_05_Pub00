@@ -37,7 +37,7 @@ Markdown est un langage de balisage léger basé sur les conventions de formatag
 
 > L'objectif primordial de la conception de la syntaxe de formatage de Markdown est de la rendre aussi lisible que possible. L'idée est qu'un document au format Markdown doit être publiable tel quel, en texte brut, sans donner l'impression qu'il a été balisé avec des balises ou des instructions de formatage.
 
-Ce texte que vous voyez ici est <em>en fait</em> écrit en Markdown ! Pour avoir une idée de la syntaxe de Markdown, tapez du texte dans la fenêtre de gauche et regardez les résultats dans la droite.
+Ce texte que vous voyez ici est <a>en fait</a> écrit en Markdown ! Pour avoir une idée de la syntaxe de Markdown, tapez du texte dans la fenêtre de gauche et regardez les résultats dans la droite.
 
 ### FAUX
 
@@ -93,7 +93,7 @@ Google Analytics | [plugins/googleanalytics/README.md][PlGa]
 
 ## autre
 
-Les métriques qui composent Core Web Vitals [évolueront](#evolving-web-vitals) au fil du temps. L'ensemble actuel pour 2020 se concentre sur trois aspects de l'expérience utilisateur ( *chargement* , *interactivité* et *stabilité visuelle* ) et comprend les mesures suivantes
+Les métriques qui composent Core Web Vitals [évolueront](#evolving-web-vitals) au fil du temps. L'ensemble actuel pour 2020 se concentre sur trois aspects de l'expérience utilisateur ( {а0}chargement{/а0} , *interactivité* et *stabilité visuelle* ) et comprend les mesures suivantes
 
 Vous voulez contribuer ? Super!
 
